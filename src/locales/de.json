@@ -1,1 +1,422 @@
-{}
+{
+  "site": {
+    "name": "Road to Jukai Wiki",
+    "shortName": "Road to Jukai",
+    "tagline": "Leitfäden & Komplettlösungen zum japanischen Psycho-Horror-Taxi-Abenteuer",
+    "description": "Road to Jukai Wiki – Entdecke Horror-Guides, Fahrgast-Informationen, Story-Details, Gameplay-Tipps, Release-Updates und alles rund um das japanische Taxi-Horror-Abenteuer.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "items": "Gegenstände",
+    "characters": "Charaktere",
+    "maps": "Karten",
+    "codes": "Codes",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Road to Jukai Wiki — Horror-Guides, Fahrgäste & Komplettlösungen",
+      "description": "Umfassender Guide zu Road to Jukai mit Überlebensstrategien, Interaktionen mit mysteriösen Fahrgästen, Hintergrundgeschichte und offiziellen Release-Updates."
+    },
+    "hero": {
+      "eyebrow": "Japanisches Psychohorror-Taxi-Abenteuer",
+      "title": "Road to Jukai Wiki",
+      "description": "Road to Jukai ist ein Psychohorror-Spiel aus der Egoperspektive, in dem Spieler als Nachtschicht-Taxifahrer durch abgelegene japanische Wälder fahren, mysteriöse Fahrgäste befördern und düstere Geheimnisse aufdecken.",
+      "stats": [
+        "Veröffentlichung: 2027",
+        "6 Story-Nächte",
+        "Playtest: Geöffnet",
+        "Wöchentliche Dev-Updates"
+      ],
+      "primaryCta": "Horror-Guides",
+      "secondaryCta": "Fahrgastliste",
+      "tertiaryCta": "Neueste Updates",
+      "videoLabel": "Offizieller Ankündigungstrailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise in Road to Jukai",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere die Steuerung deines Taxis, die Navigation über das nächtliche Armaturenbrett und die grundlegenden Überlebensregeln vor deiner ersten Schicht."
+        },
+        {
+          "number": "2",
+          "title": "Überleben in der Nachtschicht",
+          "description": "Lerne die entscheidende Bewahrung deines Geisteszustands im Wageninneren, die Routenplanung über verfluchte Waldstraßen und den Umgang mit Funkstörungen."
+        },
+        {
+          "number": "3",
+          "title": "Interaktionen mit Fahrgästen",
+          "description": "Erkenne übernatürliche Verhaltensweisen deiner Fahrgäste, meistere unheimliche Gesprächsentscheidungen und schließe nächtliche Fahrten sicher ab."
+        },
+        {
+          "number": "4",
+          "title": "Wald-Erkundung & Lore",
+          "description": "Enthülle die dunklen Geheimnisse des Jukai-Waldes, die Mysterien uralter Torii-Tore und den verzweigten Story-Fortschritt über 6 Nächte."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Survival-Guide",
+        "Fahrgast-Lore",
+        "Erscheinungsdatum"
+      ],
+      "cards": [
+        {
+          "badge": "Unverzichtbar",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du brauchst, um deine erste Schicht am Steuer in Road to Jukai zu überleben.",
+          "href": "/guide/road-to-jukai-beginner-guide"
+        },
+        {
+          "badge": "Überleben",
+          "title": "Überleben in der Nachtschicht",
+          "description": "Detaillierter Leitfaden zum Umgang mit Kabinenanomalien, psychologischer Anspannung und Navigation.",
+          "href": "/mechanics/road-to-jukai-survival"
+        },
+        {
+          "badge": "Story",
+          "title": "Geheimnisse & Wald-Lore",
+          "description": "Erkunde das Geheimnis der japanischen Torii-Tore und unheimliche Begegnungen auf abgelegenen Straßen.",
+          "href": "/maps/road-to-jukai-secrets"
+        },
+        {
+          "badge": "Demnächst",
+          "title": "Erscheinungsdatum & Playtest",
+          "description": "Offizieller Steam-Veröffentlichungszeitplan, Community-Playtests und Plattformdetails.",
+          "href": "/community/road-to-jukai-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Road to Jukai?",
+      "paragraphs": [
+        "Road to Jukai ist ein von Endflame entwickeltes und von tinyBuild veröffentlichtes Psychohorror-Fahrabenteuer aus der Egoperspektive. In den dichten, nebelverhangenen Wäldern Japans übernehmen die Spieler die Rolle eines Nachtschicht-Taxifahrers, der einsame Bergstraßen befährt und rätselhafte Fahrgäste transportiert, deren Absichten und Menschlichkeit im Verborgenen liegen.",
+        "Über sechs nervenaufreibende Story-Nächte hinweg musst du Fahrzeugwartung, Routennavigation und beunruhigende Interaktionen im Wageninneren miteinander vereinbaren. Jede Fahrt erzwingt folgenschwere Entscheidungen, die übernatürliche Anomalien offenbaren und die beklemmende Geschichte hinter dem legendären Jukai-Wald aufdecken."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Endflame"
+        },
+        {
+          "label": "Publisher",
+          "value": "tinyBuild"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Genre",
+          "value": "Psychohorror"
+        },
+        {
+          "label": "Story-Nächte",
+          "value": "6 Schichten"
+        },
+        {
+          "label": "Veröffentlichungsjahr",
+          "value": "2027"
+        },
+        {
+          "label": "Playtest-Status",
+          "value": "Geöffnet"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Road to Jukai Wiki erkunden",
+      "description": "Entdecke umfassende Guides zu Road to Jukai, die das Überleben am Steuer, mysteriöse Fahrgäste, düstere Wald-Mythen und aktuelle Neuigkeiten zur Veröffentlichung abdecken.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Road to Jukai Spiel-Guide",
+          "description": "Erfahre alles über das Kern-Gameplay, das Story-Setting, die Taxifahr-Mechaniken und die Psychohorror-Elemente von Road to Jukai.",
+          "href": "/guide/road-to-jukai-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Taxi",
+              "detail": "Nachtschicht-Fahrten über dicht bewaldete Bergrouten"
+            },
+            {
+              "label": "Horror",
+              "detail": "Psychologische Anspannung und übernatürliche Wald-Anomalien"
+            },
+            {
+              "label": "Fahrgäste",
+              "detail": "Beförderung geheimnisvoller Passagiere mit verborgenen Motiven"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Road to Jukai Erscheinungsdatum",
+          "description": "Erhalte die neuesten Release-Informationen, Plattformverfügbarkeiten, Playtest-Details und Launch-Updates zu Road to Jukai.",
+          "href": "/community/road-to-jukai-release-date",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Angestrebtes Veröffentlichungsjahr: 2027 auf PC via Steam"
+            },
+            {
+              "label": "2",
+              "detail": "Community-Playtest: Läuft derzeit in der Steam-Community"
+            },
+            {
+              "label": "3",
+              "detail": "Veröffentlicht von tinyBuild und entwickelt von Endflame"
+            },
+            {
+              "label": "4",
+              "detail": "Jetzt auf die offizielle Steam-Wunschliste setzen"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Road to Jukai Gameplay-Features",
+          "description": "Erfahre mehr über die zentralen Gameplay-Features wie Nachtschicht-Taxifahrten, seltsame Fahrgäste, Erkundung, Entscheidungen und übernatürliche Horror-Begegnungen.",
+          "href": "/mechanics/road-to-jukai-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cockpit",
+              "detail": "Interaktives Armaturenbrett, Rückspiegel und Radio-Bedienelemente"
+            },
+            {
+              "label": "Geisteszustand",
+              "detail": "Kontrolliere Nervosität und aufkeimende Panik unter hohem Druck"
+            },
+            {
+              "label": "Entscheidungen",
+              "detail": "Dialogantworten und Routenänderungen beeinflussen den Ausgang"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Road to Jukai Story und Lore",
+          "description": "Erfahre mehr über das Setting, den heimgesuchten Wald, die japanische Horror-Atmosphäre und den narrativen Aufbau von Road to Jukai.",
+          "href": "/maps/road-to-jukai-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jukai",
+              "detail": "Das berüchtigte Meer aus Bäumen voller uralter übernatürlicher Folklore"
+            },
+            {
+              "label": "Torii",
+              "detail": "Schrein-Grenzmarkierungen, die vor spirituellen Wegkreuzungen warnen"
+            },
+            {
+              "label": "Schichten",
+              "detail": "6 eigenständige Story-Nächte enthüllen die Vergangenheit des Fahrers"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Road to Jukai Einsteiger-Guide",
+          "description": "Ein spezieller Leitfaden für Anfänger, der grundlegende Steuerungen, die Erwartungen der ersten Nacht, Fahrgast-Interaktionen und Survival-Tipps erklärt.",
+          "href": "/guide/road-to-jukai-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Scheinwerfer, Tankanzeige und Rückspiegel des Fahrzeugs prüfen"
+            },
+            {
+              "label": "2",
+              "detail": "Funkaufträge annehmen und Zielwegpunkte bestätigen"
+            },
+            {
+              "label": "3",
+              "detail": "Fahrgastverhalten beobachten und in Dialogen vorsichtig antworten"
+            },
+            {
+              "label": "4",
+              "detail": "Sicher durch nebelige Straßen navigieren und den Sonnenaufgang erreichen"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Road to Jukai Systemanforderungen",
+          "description": "Übersicht über minimale und empfohlene PC-Anforderungen, unterstützte Sprachen und technische Daten für Road to Jukai.",
+          "href": "/community/road-to-jukai-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plattform",
+              "detail": "PC Windows 64-Bit via Steam"
+            },
+            {
+              "label": "Grafikkarte",
+              "detail": "DirectX 12-kompatible GPU für realistischen Nebel und Lichteffekte"
+            },
+            {
+              "label": "Audio",
+              "detail": "Stereo-Kopfhörer für räumlichen 3D-Sound empfohlen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Road to Jukai Neuigkeiten und Updates",
+          "description": "Sammelpunkt für offizielle Ankündigungen, Playtest-Updates, Trailer und Fortschrittsberichte zur Entwicklung von Road to Jukai.",
+          "href": "/community/road-to-jukai-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Offizieller Ankündigungstrailer, präsentiert von tinyBuild"
+            },
+            {
+              "label": "Playtest",
+              "detail": "Öffentliche Playtest-Phasen im Steam-Hub angekündigt"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Wöchentliche Entwicklerberichte und Community-Feedback"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Road to Jukai Trailer und Medien",
+          "description": "Offizielle Trailer, Screenshots und Werbematerialien, um Besuchern die Atmosphäre und den visuellen Stil des Spiels näherzubringen.",
+          "href": "/community/road-to-jukai-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Teaser",
+              "detail": "Atmosphärisches Ankündigungsvideo über die nebligen Routen"
+            },
+            {
+              "label": "Screenshots",
+              "detail": "Aufnahmen aus dem Fahrer-Cockpit und von unheimlichen Straßenrändern"
+            },
+            {
+              "label": "Sound",
+              "detail": "Originaler Psychohorror-Soundtrack und atmosphärische Regengeräusche"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Road to Jukai.",
+      "items": [
+        {
+          "question": "Was ist Road to Jukai?",
+          "answer": "Road to Jukai ist ein Psychohorror-Taxifahr-Abenteuer aus der Egoperspektive, entwickelt von Endflame und herausgegeben von tinyBuild. Als Nachtschicht-Taxifahrer im ländlichen Japan beförderst du über sechs Story-Schichten hinweg unheimliche Passagiere über verfluchte Waldstraßen."
+        },
+        {
+          "question": "Wann erscheint Road to Jukai?",
+          "answer": "Road to Jukai soll 2027 für den PC auf Steam erscheinen. Über die Steam-Community bieten tinyBuild und Endflame fortlaufend öffentliche Playtests an."
+        },
+        {
+          "question": "Auf welchen Plattformen wird Road to Jukai verfügbar sein?",
+          "answer": "Road to Jukai ist in erster Linie für den PC auf Steam angekündigt. Konsolenversionen werden möglicherweise nach dem Erst-Release geprüft."
+        },
+        {
+          "question": "Wie funktioniert das Gameplay in Road to Jukai?",
+          "answer": "Das Gameplay in Road to Jukai kombiniert authentische Fahrzeugsteuerung mit Elementen des psychologischen Horror-Survivals. Fahrer nehmen Fahrgäste auf, navigieren durch kurvige Bergstraßen, behalten den Rücksitz im Auge und treffen in Dialogen entscheidende Entscheidungen, um den Sonnenaufgang unbeschadet zu erleben."
+        },
+        {
+          "question": "Wo finde ich den offiziellen Trailer und Neuigkeiten zu Road to Jukai?",
+          "answer": "Du kannst den offiziellen Ankündigungstrailer zu Road to Jukai auf YouTube ansehen und wöchentliche Entwicklungs-Updates im Steam-Community-Hub von Road to Jukai verfolgen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, den Wald in Road to Jukai zu betreten?",
+      "description": "Von deiner ersten Nachtschicht hinter dem Steuer bis zur Aufdeckung der dunkelsten Geheimnisse des Jukai-Waldes – unser Community-Wiki bietet dir alle vollständigen Guides.",
+      "primary": "Horror-Guides entdecken",
+      "secondary": "Auf die Steam-Wunschliste"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf die Steam-Wunschliste",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Artikel",
+    "relatedGuides": "Ähnliche Guides",
+    "readMore": "Mehr erfahren",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Road to Jukai Wiki",
+    "about": "Das Road to Jukai Wiki ist eine unabhängige, von Fans erstellte Guide-Zentrale mit Nachtrouten, mysteriösen Fahrgästen, übernatürlichen Ereignissen und Überlebenstipps für das psychologische Taxi-Horror-Abenteuer aus der Egoperspektive.",
+    "quickLinks": "Quicklinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Road to Jukai Wiki. Nicht mit Endflame oder tinyBuild verbunden.",
+    "description": "Japanisches Psycho-Horror-Taxi-Abenteuer aus der Egoperspektive für PC (Steam). Entwickelt von Endflame, veröffentlicht von tinyBuild.",
+    "playGame": "Road to Jukai auf die Wunschliste",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "vvBuilder": "Endflame-Kanal",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Story-Guides",
+    "bossGuides": "Fahrgast-Guide",
+    "buildGuide": "Überlebens-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Road to Jukai Guides & Walkthroughs",
+    "overviewDescription": "Entdecke vollständige Einsteiger-Tutorials, Schicht-Überlebensleitfäden, Quest-Schritte und unverzichtbare Fahrtipps für Road to Jukai."
+  },
+  "mechanics": {
+    "overviewTitle": "Road to Jukai Gameplay-Mechaniken",
+    "overviewDescription": "Meistere die grundlegende Fahrzeugsteuerung, die Bewahrung deiner geistigen Gesundheit, die Regeln für übernatürliche Begegnungen und den Charakterfortschritt in Road to Jukai."
+  },
+  "items": {
+    "overviewTitle": "Road to Jukai Gegenstände & Ausrüstung",
+    "overviewDescription": "Durchstöbere die komplette Datenbank mit Taxi-Upgrades, Taschenlampen-Ausrüstung, defensiven Talismanen und sammelbaren Ressourcen in Road to Jukai."
+  },
+  "characters": {
+    "overviewTitle": "Road to Jukai Charaktere & Fahrgäste",
+    "overviewDescription": "Triff die verstörenden Fahrgäste, Wesen aus der lokalen Folklore, gefährlichen Wald-Verfolger und wichtigsten NPCs, denen du in Road to Jukai begegnest."
+  },
+  "maps": {
+    "overviewTitle": "Road to Jukai Karten & Schauplätze",
+    "overviewDescription": "Entdecke versteckte Waldabzweigungen, heilige Schreine, verfluchte Raststätten und vollständige Routen zu Wegmarken auf der Karte des verfluchten Jukai-Waldes."
+  },
+  "codes": {
+    "overviewTitle": "Road to Jukai Promo-Codes",
+    "overviewDescription": "Finde alle aktuell aktiven Einlösecodes, besonderen Playtest-Belohnungen und Anleitungen zum Freischalten kosmetischer Inhalte für Road to Jukai."
+  },
+  "community": {
+    "overviewTitle": "Road to Jukai Community & Updates",
+    "overviewDescription": "Bleibe auf dem Laufenden mit offiziellen Patchnotizen der Entwickler, Veröffentlichungszeitplänen, Diskussionsforen, Trailern und Informationen zu Demo-Playtests für Road to Jukai."
+  }
+}

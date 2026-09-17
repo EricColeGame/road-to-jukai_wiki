@@ -1,1 +1,422 @@
-{}
+{
+  "site": {
+    "name": "Road to Jukai Wiki",
+    "shortName": "Road to Jukai",
+    "tagline": "和風サイコロジカルホラー・タクシーアドベンチャーの攻略・ガイド",
+    "description": "Road to Jukai Wikiへようこそ！日本のタクシーホラーアドベンチャーに関する攻略情報、乗客データ、ストーリー詳細、ゲームプレイのコツ、最新リリース情報などをお届けします。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "システム",
+    "items": "アイテム",
+    "characters": "キャラクター",
+    "maps": "マップ",
+    "codes": "コード",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Road to Jukai Wiki — ホラー攻略・乗客・ストーリー解説",
+      "description": "『Road to Jukai』の総合攻略ガイド。サバイバル戦略、不気味な乗客とのインタラクション、物語の謎（伝承）、公式リリース最新情報をお届けします。"
+    },
+    "hero": {
+      "eyebrow": "和風サイコロジカルホラー・タクシーアドベンチャー",
+      "title": "Road to Jukai Wiki",
+      "description": "『Road to Jukai』は、人里離れた日本の樹海を走る夜勤タクシードライバーとなり、不気味な乗客を運びながら暗い秘密を解き明かしていく一人称視点のサイコロジカルホラーゲームです。",
+      "stats": [
+        "リリース: 2027年",
+        "全6夜のストーリー",
+        "プレイテスト: 実施中",
+        "開発進捗: 毎週更新"
+      ],
+      "primaryCta": "ホラー攻略ガイド",
+      "secondaryCta": "乗客リスト",
+      "tertiaryCta": "最新アップデート",
+      "videoLabel": "公式発表トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Road to Jukaiへの旅立ち",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "最初の乗務に出発する前に、タクシーの基本操作、夜間ダッシュボードの確認、生き残るための基本ルールをマスターしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "夜勤サバイバル術",
+          "description": "車内の正気度（サニティ）管理、呪われた林道のルート計画、ラジオの異常現象への対処法を学びます。"
+        },
+        {
+          "number": "3",
+          "title": "乗客とのインタラクション",
+          "description": "超常的な乗客の挙動を見極め、不穏な会話の選択肢に慎重に対処し、深夜の送迎を無事にやり遂げましょう。"
+        },
+        {
+          "number": "4",
+          "title": "樹海の探索と伝承",
+          "description": "富士の樹海に隠された暗い秘密、古びた鳥居の謎、そして6つの夜にわたって分岐する物語の真相に迫ります。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目のトピック",
+      "quickLinks": [
+        "初心者ガイド",
+        "サバイバルガイド",
+        "乗客の伝承・情報",
+        "発売日情報"
+      ],
+      "cards": [
+        {
+          "badge": "必読",
+          "title": "初心者ガイド",
+          "description": "『Road to Jukai』で初めてハンドルを握る夜を生き延びるために必要な基礎知識を網羅。",
+          "href": "/guide/road-to-jukai-beginner-guide"
+        },
+        {
+          "badge": "サバイバル",
+          "title": "夜勤サバイバル術",
+          "description": "車内の怪異現象への対処、精神的プレッシャー、夜道ナビゲーションの徹底解説ガイド。",
+          "href": "/mechanics/road-to-jukai-survival"
+        },
+        {
+          "badge": "ストーリー",
+          "title": "秘密と樹海の伝承",
+          "description": "古びた鳥居の謎や、隠された林道での遭遇イベントの真相を探る。",
+          "href": "/maps/road-to-jukai-secrets"
+        },
+        {
+          "badge": "最新情報",
+          "title": "発売日＆プレイテスト",
+          "description": "Steam公式リリース予定時期、コミュニティプレイテスト、対応プラットフォームの詳細。",
+          "href": "/community/road-to-jukai-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Road to Jukaiとは？",
+      "paragraphs": [
+        "『Road to Jukai』は、Endflameが開発し、tinyBuildがパブリッシングを手がける一人称視点サイコロジカルホラー・ドライビングアドベンチャーです。霧深い日本の原生林を舞台に、プレイヤーは夜勤タクシードライバーとして孤立した山道を走り、目的も人間性も定かではない奇妙な乗客たちを送り届けます。",
+        "緊迫感漂う全6夜のストーリーを通じ、車両のメンテナンス、ルートの確認、車内での不穏なやり取りを両立させなければなりません。下した決断の一つひとつが怪異を引き起こし、伝説の樹海に隠された恐ろしい伝承を暴き出していきます。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Endflame"
+        },
+        {
+          "label": "発売元",
+          "value": "tinyBuild"
+        },
+        {
+          "label": "対応プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サイコロジカルホラー"
+        },
+        {
+          "label": "ストーリー構成",
+          "value": "全6シフト（6夜）"
+        },
+        {
+          "label": "発売予定年",
+          "value": "2027年"
+        },
+        {
+          "label": "プレイテスト状況",
+          "value": "実施中"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Road to Jukai Wikiを探索",
+      "description": "タクシー運転サバイバル、謎の乗客、暗い樹海の伝承、最新リリース情報など、『Road to Jukai』の包括的な攻略情報をチェックしましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Road to Jukai ゲームプレイガイド",
+          "description": "『Road to Jukai』の基本ゲームプレイループ、世界観、タクシー運転システム、サイコロジカルホラー要素を解説します。",
+          "href": "/guide/road-to-jukai-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "タクシー運転",
+              "detail": "鬱蒼とした山道を走る夜勤タクシードライビング"
+            },
+            {
+              "label": "ホラー",
+              "detail": "心理的な緊張感と森で巻き起こる超常的な怪異"
+            },
+            {
+              "label": "乗客",
+              "detail": "思惑の読めない不気味な乗客たちの送迎"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Road to Jukai 発売日・リリース情報",
+          "description": "『Road to Jukai』の最新リリース情報、対応プラットフォーム、プレイテスト参加方法、アップデート情報をお届けします。",
+          "href": "/community/road-to-jukai-release-date",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "発売予定年: 2027年（PC / Steam）"
+            },
+            {
+              "label": "2",
+              "detail": "コミュニティプレイテスト: Steamコミュニティにて実施中"
+            },
+            {
+              "label": "3",
+              "detail": "tinyBuildパブリッシング / Endflame開発"
+            },
+            {
+              "label": "4",
+              "detail": "Steam公式ストアページにてウィッシュリスト登録受付中"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Road to Jukai ゲームシステム解説",
+          "description": "夜勤タクシーの運行、異様な乗客たち、探索、選択肢、超常現象との遭遇など、主要ゲームシステムを解説します。",
+          "href": "/mechanics/road-to-jukai-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "運転席",
+              "detail": "操作可能なダッシュボード、バックミラー、ラジオ機器"
+            },
+            {
+              "label": "正気度",
+              "detail": "極限状況下における緊張感と恐怖値のマネジメント"
+            },
+            {
+              "label": "選択肢",
+              "detail": "結末を左右する会話の受け答えとルートの迂回判断"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Road to Jukai ストーリー＆伝承",
+          "description": "本作の舞台設定、呪われた森のテーマ、和風ホラーの空気感、全6夜のストーリー構成を掘り下げます。",
+          "href": "/maps/road-to-jukai-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "樹海",
+              "detail": "古くからの超常的フォークロアが息づく悪名高い森"
+            },
+            {
+              "label": "鳥居",
+              "detail": "霊的境界を示し、迷い込む者に警告する結界の目印"
+            },
+            {
+              "label": "シフト",
+              "detail": "ドライバーの過去を徐々に解き明かす全6夜の物語"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Road to Jukai 初心者向け手引き",
+          "description": "基本操作、初日の夜の心構え、乗客への接し方、生還のためのコツなど初心者に役立つ情報をまとめました。",
+          "href": "/guide/road-to-jukai-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ヘッドライト、燃料計、バックミラーの状態を確認する"
+            },
+            {
+              "label": "2",
+              "detail": "配車無線を受け取り、目的地のルートを確認する"
+            },
+            {
+              "label": "3",
+              "detail": "乗客の挙動を観察し、会話選択肢には慎重に応答する"
+            },
+            {
+              "label": "4",
+              "detail": "霧深い山道を慎重に走り抜け、無事に朝を迎える"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Road to Jukai 動作環境（システム要件）",
+          "description": "『Road to Jukai』の最小・推奨PC動作環境、対応言語、技術仕様の情報を掲載しています。",
+          "href": "/community/road-to-jukai-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "プラットフォーム",
+              "detail": "PC Windows 64-bit（Steam経由）"
+            },
+            {
+              "label": "グラフィック",
+              "detail": "リアルな霧とライティングを表現するDirectX 12対応GPU"
+            },
+            {
+              "label": "オーディオ",
+              "detail": "臨場感あふれる立体音響を体験するためのステレオヘッドホン推奨"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Road to Jukai ニュース＆アップデート",
+          "description": "『Road to Jukai』に関する公式アナウンス、プレイテスト進捗、最新トレーラー、開発日誌を収集・更新しています。",
+          "href": "/community/road-to-jukai-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トレーラー",
+              "detail": "tinyBuildから公開された公式発表トレーラー映像"
+            },
+            {
+              "label": "テスト",
+              "detail": "Steamコミュニティハブで発表される公開プレイテスト"
+            },
+            {
+              "label": "開発ロードマップ",
+              "detail": "毎週配信される開発者メッセージとコミュニティフィードバック"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Road to Jukai トレーラー＆メディア",
+          "description": "公式トレーラー、スクリーンショット、プロモーションメディアを通じて、本作の不気味な雰囲気とビジュアルを紹介します。",
+          "href": "/community/road-to-jukai-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ティザー",
+              "detail": "霧深いルートの恐怖を描く雰囲気抜群の発表映像"
+            },
+            {
+              "label": "画面写真",
+              "detail": "一人称視点の運転席と、不気味な田舎の夜道シーン"
+            },
+            {
+              "label": "サウンド",
+              "detail": "緊迫感を煽るオリジナルホラー音響と降りしきる雨の環境音"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "『Road to Jukai』についてよく寄せられる質問とその回答です。",
+      "items": [
+        {
+          "question": "Road to Jukaiとはどのようなゲームですか？",
+          "answer": "『Road to Jukai』は、Endflameが開発しtinyBuildが販売する一人称視点サイコロジカルホラー・タクシードライビングアドベンチャーです。日本の田舎町で夜勤ドライバーとなり、全6回のシフトを通じて呪われた森の道を走り、不気味な乗客たちを目的地へと運びます。"
+        },
+        {
+          "question": "Road to Jukaiの発売日はいつですか？",
+          "answer": "『Road to Jukai』は2027年にPC（Steam）向けに発売予定です。また、tinyBuildおよびEndflameにより、Steamコミュニティ上にて定期的な公開プレイテストが開催されています。"
+        },
+        {
+          "question": "対応プラットフォームは何ですか？",
+          "answer": "現時点ではPC（Steam）版が正式発表されています。家庭用ゲーム機（コンソール）版の展開については、PC版の発売後に検討される可能性があります。"
+        },
+        {
+          "question": "ゲームプレイはどのようなシステムですか？",
+          "answer": "本格的な車両の運転操作とサイコロジカルホラーサバイバルが融合したシステムです。乗客の依頼を受け、曲がりくねった山道を走り、後部座席の様子を確認しながら、無事に夜明けを迎えるための重要な対話選択を行っていきます。"
+        },
+        {
+          "question": "公式トレーラーや最新情報はどこで確認できますか？",
+          "answer": "公式アナウンストレーラーはYouTubeで視聴可能です。また、毎週の開発最新情報は『Road to Jukai』公式Steamコミュニティハブにて確認できます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "樹海の闇へ踏み出す準備はできましたか？",
+      "description": "ハンドルを握る最初の夜勤から、樹海に眠る最も深い秘密の解明まで、当コミュニティWikiが完全攻略をサポートします。",
+      "primary": "ホラー攻略ガイドを見る",
+      "secondary": "Steamでウィッシュリストに追加"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "Steamでウィッシュリストに追加",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。近日中に公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Road to Jukai Wikiについて",
+    "about": "Road to Jukai Wikiは、一人称視点の和風サイコロジカルホラー・タクシーアドベンチャーにおける夜間ルート、謎めいた乗客、超常現象、生存のヒントなどを網羅したファン運営の攻略情報拠点です。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Road to Jukai Wiki. Not affiliated with Endflame or tinyBuild.",
+    "description": "PC（Steam）向け一人称視点和風サイコロジカルホラー・タクシーアドベンチャー。開発元：Endflame、パブリッシャー：tinyBuild。",
+    "playGame": "Road to Jukai をウィッシュリストに追加",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "Endflameチャンネル",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "ストーリー攻略",
+    "bossGuides": "乗客一覧・攻略",
+    "buildGuide": "サバイバルガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Road to Jukai 攻略ガイド＆ウォークスルー",
+    "overviewDescription": "初心者向けチュートリアル、夜勤シフトを生き延びる攻略法、クエスト手順、必須の運転テクニックなど、Road to Jukaiの攻略情報を網羅。"
+  },
+  "mechanics": {
+    "overviewTitle": "Road to Jukai ゲームシステム＆基本メカニクス",
+    "overviewDescription": "基本的な運転操作、正気度（SAN値）の維持、怪異との遭遇ルール、キャラクターの強化システムなど、Road to Jukaiのゲームメカニクスを徹底解説。"
+  },
+  "items": {
+    "overviewTitle": "Road to Jukai アイテム＆装備一覧",
+    "overviewDescription": "タクシーのアップグレードパーツ、懐中電灯などの装備品、魔除けのお守り、収集可能な資源など、Road to Jukaiの全アイテムデータベース。"
+  },
+  "characters": {
+    "overviewTitle": "Road to Jukai 登場人物＆乗客",
+    "overviewDescription": "不気味な乗客たち、土地に伝わる民間伝承の怪異、樹海を彷徨う危険な追跡者、重要なNPCなど、Road to Jukaiに登場するキャラクターを紹介。"
+  },
+  "maps": {
+    "overviewTitle": "Road to Jukai マップ＆ロケーション",
+    "overviewDescription": "森の隠し分岐路、神聖な神社、呪われた休憩所、ランドマークを繋ぐルートなど、怪異が潜む樹海マップの全容を探索。"
+  },
+  "codes": {
+    "overviewTitle": "Road to Jukai プロモコード＆特典",
+    "overviewDescription": "現在利用可能な引き換えコード、プレイテスト限定報酬、スキンなどの各種アンロック手順を一覧でチェック。"
+  },
+  "community": {
+    "overviewTitle": "Road to Jukai コミュニティ＆最新情報",
+    "overviewDescription": "公式パッチノート、リリース予定、コミュニティ掲示板、トレーラー、体験版プレイテストの最新情報をお届け。"
+  }
+}
