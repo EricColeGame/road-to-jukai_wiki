@@ -30,7 +30,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale; slug: string[] }> }): Promise<Metadata> {
   const { locale, slug } = await params;
   const messages = (await getMessages({ locale })) as Messages;
-  if (slug.length === 1 && CONTENT_TYPES.includes(slug[0])) {
+  if (slug.length === 1 && (CONTENT_TYPES as readonly string[]).includes(slug[0])) {
     const ct = slug[0];
     const ctTitle = ct.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
     const ctMessages = (messages as unknown as Record<string, Record<string, string>>)[ct];
