@@ -6,7 +6,15 @@
     "description": "Road to Jukai Wiki - Explore horror guides, passenger information, story details, gameplay tips, release updates, and everything about the Japanese taxi horror adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "characters": "Characters",
+    "maps": "Maps",
+    "codes": "Codes",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Road to Jukai Wiki — Horror Guides, Passengers & Walkthroughs",
@@ -347,7 +355,6 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -383,5 +390,33 @@
     "buildGuide": "Survival Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Road to Jukai Guides & Walkthroughs",
+    "overviewDescription": "Explore complete beginner tutorials, shift survival walkthroughs, quest steps, and essential driving tips for Road to Jukai."
+  },
+  "mechanics": {
+    "overviewTitle": "Road to Jukai Gameplay Mechanics",
+    "overviewDescription": "Master core driving controls, sanity preservation, supernatural encounter rules, and character progression in Road to Jukai."
+  },
+  "items": {
+    "overviewTitle": "Road to Jukai Items & Equipment",
+    "overviewDescription": "Browse the complete database of cab upgrades, flashlight gear, defensive charms, and collectible resources in Road to Jukai."
+  },
+  "characters": {
+    "overviewTitle": "Road to Jukai Characters & Passengers",
+    "overviewDescription": "Meet the unsettling passengers, local folklore entities, dangerous forest stalkers, and key NPCs encountered in Road to Jukai."
+  },
+  "maps": {
+    "overviewTitle": "Road to Jukai Maps & Locations",
+    "overviewDescription": "Discover hidden forest turnoffs, sacred shrines, cursed rest stops, and full landmark routes across the haunted Jukai forest map."
+  },
+  "codes": {
+    "overviewTitle": "Road to Jukai Promo Codes",
+    "overviewDescription": "Check all currently active redemption codes, special playtest rewards, and cosmetic unlock instructions for Road to Jukai."
+  },
+  "community": {
+    "overviewTitle": "Road to Jukai Community & Updates",
+    "overviewDescription": "Stay informed with official developer patch notes, release schedules, discussion hubs, trailers, and demo playtest information for Road to Jukai."
   }
 }
