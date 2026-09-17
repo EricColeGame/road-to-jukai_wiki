@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Road to Jukai Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Road to Jukai Wiki — Horror Guides, Passengers & Walkthroughs",
+      "description": "Comprehensive Road to Jukai guide with survival strategies, mysterious passenger interactions, story lore, and official release updates."
     },
     "hero": {
       "eyebrow": "Japanese Psychological Horror Taxi Adventure",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Road to Jukai Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master your taxi controls, nighttime dashboard navigation, and basic survival rules before embarking on your first shift."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Night Shift Survival",
+          "description": "Learn essential cabin sanity management, route planning through cursed forest roads, and dealing with radio anomalies."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Passenger Interactions",
+          "description": "Identify supernatural passenger behaviors, handle eerie conversation choices, and safely complete night pickups."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Forest Exploration & Lore",
+          "description": "Uncover the dark secrets of Jukai forest, ancient torii gate mysteries, and branching story progression across 6 nights."
         }
       ]
     },
@@ -62,237 +62,253 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Survival Guide",
+        "Passenger Lore",
+        "Release Date"
       ],
       "cards": [
         {
-          "badge": "Beginner",
+          "badge": "Essential",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need to survive your first shift behind the wheel in Road to Jukai.",
+          "href": "/guide/road-to-jukai-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Survival",
+          "title": "Night Shift Survival",
+          "description": "In-depth guide on handling cab anomalies, psychological tension, and navigation.",
+          "href": "/mechanics/road-to-jukai-survival"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Story",
+          "title": "Secrets & Forest Lore",
+          "description": "Explore the mystery of the Japanese torii gates and hidden road encounters.",
+          "href": "/maps/road-to-jukai-secrets"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Upcoming",
+          "title": "Release Date & Playtest",
+          "description": "Official Steam release schedule, community playtests, and platform details.",
+          "href": "/community/road-to-jukai-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Road to Jukai?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Road to Jukai is a first-person psychological horror driving adventure developed by Endflame and published by tinyBuild. Set in the dense, fog-draped forests of Japan, players take on the role of a night-shift taxi driver navigating isolated mountain roads, transporting enigmatic passengers whose intentions and humanity remain uncertain.",
+        "Over six suspenseful story nights, you must balance vehicle maintenance, route navigation, and unsettling in-cabin interactions. Every ride forces crucial decisions that reveal supernatural anomalies and uncover the haunting lore behind the legendary Jukai woodland."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Endflame"
+        },
+        {
+          "label": "Publisher",
+          "value": "tinyBuild"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Psychological Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Story Nights",
+          "value": "6 Shifts"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release Year",
+          "value": "2027"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Playtest Status",
+          "value": "Open"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Road to Jukai Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Discover comprehensive guides for Road to Jukai, covering taxi driving survival, mysterious passengers, dark forest lore, and the latest release news.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Road to Jukai Game Guide",
+          "description": "Introduce the core gameplay loop, story setting, taxi driving mechanics, and psychological horror elements of Road to Jukai.",
+          "href": "/guide/road-to-jukai-how-to-play",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Taxi",
+              "detail": "Night-shift cab driving through dense mountain routes"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Horror",
+              "detail": "Psychological tension and supernatural forest anomalies"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Fares",
+              "detail": "Transporting mysterious passengers with hidden motives"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Road to Jukai Release Date",
+          "description": "Provide the latest release information, platform availability, playtest details, and launch updates for Road to Jukai.",
+          "href": "/community/road-to-jukai-release-date",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Target Release Year: 2027 on PC via Steam"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Community Playtest: Ongoing on Steam Community"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Published by tinyBuild and developed by Endflame"
+            },
+            {
+              "label": "4",
+              "detail": "Wishlist available now on the official Steam store"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Road to Jukai Gameplay Features",
+          "description": "Explain the major gameplay features including night-shift taxi driving, strange passengers, exploration, choices, and supernatural horror encounters.",
+          "href": "/mechanics/road-to-jukai-mechanics",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Cockpit",
+              "detail": "Interactive dashboard, rearview mirror, and radio controls"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Sanity",
+              "detail": "Manage driver tension and environmental dread under pressure"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Choices",
+              "detail": "Dialogue responses and route diversions shaping outcomes"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Road to Jukai Story and Lore",
+          "description": "Cover the game's setting, haunted forest themes, Japanese horror atmosphere, and narrative structure in Road to Jukai.",
+          "href": "/maps/road-to-jukai-secrets",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Jukai",
+              "detail": "Infamous Sea of Trees harboring ancient supernatural folklore"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Torii",
+              "detail": "Shrine boundary markers warning of spiritual crossroads"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Shifts",
+              "detail": "6 distinct narrative nights unveiling the driver's past"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Road to Jukai Beginner Guide",
+          "description": "Create a beginner-focused section explaining basic controls, first-night expectations, passenger interactions, and survival tips for new players.",
+          "href": "/guide/road-to-jukai-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Check vehicle headlights, fuel gauge, and rear mirror"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Accept dispatch calls and confirm destination waypoints"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Observe passenger behavior and respond cautiously in dialogue"
+            },
+            {
+              "label": "4",
+              "detail": "Safely navigate foggy roads and reach morning sunrise"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Road to Jukai System Requirements",
+          "description": "Display minimum and recommended PC requirements, supported languages, and technical information for Road to Jukai.",
+          "href": "/community/road-to-jukai-updates",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Platform",
+              "detail": "PC Windows 64-bit via Steam"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Graphics",
+              "detail": "DirectX 12 compatible GPU for realistic fog and lighting"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Audio",
+              "detail": "Stereo headphones recommended for directional 3D audio"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Road to Jukai News and Updates",
+          "description": "Collect official announcements, playtest updates, trailers, and development progress information for Road to Jukai.",
+          "href": "/community/road-to-jukai-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Official Announcement Trailer showcased by tinyBuild"
+            },
+            {
+              "label": "Playtest",
+              "detail": "Public playtest sessions announced on Steam Hub"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Weekly developer dispatches and community feedback"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Road to Jukai Trailers and Media",
+          "description": "Show official trailers, screenshots, and promotional media to help visitors quickly understand the game's atmosphere and visual style.",
+          "href": "/community/road-to-jukai-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Teaser",
+              "detail": "Atmospheric announcement video introducing the foggy route"
+            },
+            {
+              "label": "Screens",
+              "detail": "First-person cabin driving and eerie rural roadside shots"
+            },
+            {
+              "label": "Sound",
+              "detail": "Original psychological horror audio and ambient rain FX"
             }
           ]
         }
@@ -300,27 +316,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Road to Jukai.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Road to Jukai?",
+          "answer": "Road to Jukai is a first-person psychological horror taxi driving adventure developed by Endflame and published by tinyBuild. As a night-shift taxi driver in rural Japan, you transport unsettling passengers through cursed forest routes across six story shifts."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When is the Road to Jukai release date?",
+          "answer": "Road to Jukai is slated for release in 2027 on PC via Steam, with ongoing public playtest opportunities hosted by tinyBuild and Endflame on the Steam Community."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms will Road to Jukai be available on?",
+          "answer": "Road to Jukai is primarily announced for PC on Steam. Console releases may be evaluated following the initial launch."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does gameplay work in Road to Jukai?",
+          "answer": "Gameplay in Road to Jukai blends authentic vehicle controls with psychological horror survival. Drivers accept passenger requests, navigate winding mountain roads, inspect the rear cabin, and make crucial dialogue decisions to reach sunrise safely."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I find the official Road to Jukai trailer and updates?",
+          "answer": "You can watch the official Road to Jukai Announcement Trailer on YouTube and follow weekly development updates on the Road to Jukai Steam Community hub."
         }
       ]
     },
@@ -337,7 +353,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Wishlist on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
